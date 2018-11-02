@@ -1,0 +1,8 @@
+/dsglossary/_layouts
+/dsglossary/_posts
+/dsglossary/Gemfile
+/dsglossary/Gemfile.lock
+.DS_Store
+.sass-cache
+.jekyll-metadata
+.bundle
