@@ -1,4 +1,5 @@
-_site
+_layouts
+_posts
 Gemfile.lock
 .DS_Store
 .sass-cache
