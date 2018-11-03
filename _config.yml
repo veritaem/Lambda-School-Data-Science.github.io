@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Data Science Glossary
+tagline:      A Glossary of Data Science, Statistics, Machine Learning, and Artificial Intelligence
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Ryan allred
+  url:        http://www.dsglossary.com/
 
 # Gems
 gems:
