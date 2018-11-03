@@ -1,14 +1,28 @@
 # Setup
 title:        Data Science Glossary
-tagline:      A Glossary of Data Science, Statistics, Machine Learning, and Artificial Intelligence
+tagline:      A Glossary of Data Science, Statistics, Machine Learning, and Artificial Intelligence.
 baseurl:      ""
 paginate:     1
 locale:       "en"
+permalink: /:categories/:title/
+
+#Organize Category Collections
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 
 # About/contact
 author:
   name:       Ryan Allred
-  url:        "http://twitter.com/ryanallred"
+  url:        http://twitter.com/ryanallred
 
 # Gems
 gems:
@@ -16,3 +30,5 @@ gems:
 
 #Others
 markdown: kramdown
+
+

@@ -1,0 +1,4 @@
+---
+tag: Q
+permalink: "/Q"
+---

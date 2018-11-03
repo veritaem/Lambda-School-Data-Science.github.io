@@ -1,0 +1,4 @@
+---
+tag: N
+permalink: "/N"
+---

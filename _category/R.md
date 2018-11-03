@@ -1,0 +1,4 @@
+---
+tag: R
+permalink: "/R"
+---

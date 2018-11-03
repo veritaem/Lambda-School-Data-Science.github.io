@@ -1,0 +1,4 @@
+---
+tag: J
+permalink: "/J"
+---

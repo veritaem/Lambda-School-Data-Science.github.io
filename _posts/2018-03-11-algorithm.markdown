@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Sample Content
-category: S
+title:  Algorithm
+category: A
 tags: [test1, test2]
 ---
 
