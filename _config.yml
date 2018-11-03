@@ -8,7 +8,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Ryan Allred
-  url:        http://www.dsglossary.com/
+  url:        "http://twitter.com/ryanallred"
 
 # Gems
 gems:
