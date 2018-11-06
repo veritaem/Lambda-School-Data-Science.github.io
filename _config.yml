@@ -4,7 +4,7 @@ tagline:      A Glossary of Data Science, Statistics, Machine Learning, and Arti
 baseurl:      ""
 paginate:     1
 locale:       "en"
-permalink: /:categories/:title/
+permalink: /:categories/:title
 
 #Organize Category Collections
 collections:
