@@ -1,4 +1,4 @@
 ---
 tag: A
-permalink: "/A"
+permalink: "/A/"
 ---
