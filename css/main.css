@@ -1,0 +1,13 @@
+.inline {
+	display: inline-block;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.updated {
+	font-size: 12px;
+}

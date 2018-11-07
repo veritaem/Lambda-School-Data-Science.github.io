@@ -5,7 +5,7 @@ layout: default
 {% assign pageDate = page.date | date: %Y-%m-%d %}
 {% assign truncatedDate = pageDate | truncate: 10, "" %}
 
-<h2>{{ page.title }}</h2>
+<h2 class="inline">{{ page.title }}</h2>
 <a href="https://github.com/ryanleeallred/ryanleeallred.github.io/edit/master/_posts/{{truncatedDate}}-{{page.title | downcase}}.md">	
 	<button class="float-right">
 		<i class="fas fa-pencil-alt"></i> Improve This Page
@@ -14,4 +14,4 @@ layout: default
 
 {{ content }}
 
-<p class="meta">Last Updated: {{ page.date | date: '%B %d, %Y' }}</p>
+<p class="meta updated">Last Updated: {{ page.date | date: '%B %d, %Y' }}</p>
