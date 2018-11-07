@@ -1,4 +1,4 @@
 ---
 tag: K
-permalink: "/K"
+permalink: "/k"
 ---

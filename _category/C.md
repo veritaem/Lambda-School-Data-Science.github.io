@@ -1,4 +1,4 @@
 ---
 tag: C
-permalink: "/C"
+permalink: "/c"
 ---

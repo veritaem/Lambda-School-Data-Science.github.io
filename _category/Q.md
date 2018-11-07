@@ -1,4 +1,4 @@
 ---
 tag: Q
-permalink: "/Q"
+permalink: "/q"
 ---

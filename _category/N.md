@@ -1,4 +1,4 @@
 ---
 tag: N
-permalink: "/N"
+permalink: "/n"
 ---

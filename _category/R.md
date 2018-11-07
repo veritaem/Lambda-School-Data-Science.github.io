@@ -1,4 +1,4 @@
 ---
 tag: R
-permalink: "/R"
+permalink: "/r"
 ---
