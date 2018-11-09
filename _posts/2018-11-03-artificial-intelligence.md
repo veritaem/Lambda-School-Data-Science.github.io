@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Artificial Intelligence (AI)
+title:  Artificial Intelligence
 category: A
 ---
 
