@@ -31,4 +31,8 @@ gems:
 #Others
 markdown: kramdown
 
+#API Calls
 
+# jekyll_get:
+#   - data: contributors
+#     json: 'https://18f.gsa.gov/hub/api/team/'
