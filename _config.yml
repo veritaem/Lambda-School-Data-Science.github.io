@@ -25,8 +25,8 @@ author:
   url:        http://twitter.com/ryanallred
 
 # Gems
-gems:
-  - jekyll-paginate
+# gems:
+#   - jekyll-paginate
 
 #Others
 markdown: kramdown
