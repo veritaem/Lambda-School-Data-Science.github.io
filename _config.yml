@@ -24,12 +24,18 @@ author:
   name:       Ryan Allred
   url:        http://twitter.com/ryanallred
 
-# Gems
-# gems:
-#   - jekyll-paginate
-
 #Others
 markdown: kramdown
+
+# Gems
+gems:
+  - jekyll-sitemap
+
+plugins: 
+  - jekyll-sitemap
+
+
+
 
 #API Calls
 
