@@ -4,7 +4,7 @@
 
 # How to use it?
 
-1) Fork and clone the repository
+1) Fork and clone the repository.
 
 2) From the command line navigate inside the repository and run:
 
