@@ -5,6 +5,7 @@ baseurl:      ""
 paginate:     1
 locale:       "en"
 permalink: /:categories/:title
+url: "http://www.dsglossary.com"
 
 #Organize Category Collections
 collections:
