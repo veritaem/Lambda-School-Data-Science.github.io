@@ -6,6 +6,7 @@ paginate:     1
 locale:       "en"
 permalink: /:categories/:title
 url: "http://www.dsglossary.com"
+repository: ryanleeallred/ryanleeallred.github.io
 
 #Organize Category Collections
 collections:
@@ -31,9 +32,11 @@ markdown: kramdown
 # Gems
 gems:
   - jekyll-sitemap
+  - "jekyll-github-metadata"
 
 plugins: 
   - jekyll-sitemap
+  - "jekyll-github-metadata"
 
 
 
