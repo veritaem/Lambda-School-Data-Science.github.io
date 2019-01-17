@@ -4,4 +4,7 @@ title:  Feature Engineering
 category: F
 ---
 
-Feature Engineering is human drawing from their knowledge of specific domain subjects to influence the machine learning algorithms in such ways that produce output that closer match the predicted results.
+1. Feature Engineering are small steps improvement to machine learning algorithm.
+
+2. Human using their domain knowledge influence the data model to output desired results.
+ 
