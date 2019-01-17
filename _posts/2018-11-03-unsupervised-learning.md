@@ -2,7 +2,7 @@
 layout: post
 title:  Unsupervised Learning
 category: U
-definition: Unsupervised Learning - is a branch of machine learning that learns from test data that has not been labeled, classified or categorized.
+description: Unsupervised Learning - is a branch of machine learning that learns from test data that has not been labeled, classified or categorized.
 ---
 
 **Unsupervised learning** is a branch of machine learning that learns from test data that has not been labeled, classified or categorized.
