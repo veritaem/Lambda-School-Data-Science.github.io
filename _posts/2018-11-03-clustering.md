@@ -2,6 +2,7 @@
 layout: post
 title:  Clustering
 category: C
+description: Clustering - The process of grouping a set of objects in such a way that objects in the same group are more similar to each other than to those in other groups.
 ---
 
 The process of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters).
