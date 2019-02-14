@@ -8,4 +8,5 @@ Regression modeling is a form of predictive modelling technique which investigat
 Beware of outliers!  Outliers have a way of throwing off models, so you may wish to prune them with something like:
 
 df[np.abs(df.Data-df.Data.mean()) <= (3*df.Data.std())]
+
 keeps only the ones that are within +3 to -3 standard deviations in the column 'Data'.
