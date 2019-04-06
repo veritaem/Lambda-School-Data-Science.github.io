@@ -2,8 +2,8 @@
 layout: post
 title:  Unsupervised Learning
 category: U
+description: Unsupervised Learning - is a branch of machine learning that learns from test data that has not been labeled, classified or categorized.
 ---
-
 Unsupervised learning is a machine learning algorithm used to draw inferences from datasets without labels. 
 
 'Labels', in this context, refers to some outcome or target variable. When a target variable is not present in the data, there is no prediction for which to optimize.
