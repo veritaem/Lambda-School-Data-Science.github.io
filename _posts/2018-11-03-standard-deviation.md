@@ -2,6 +2,8 @@
 layout: post
 title:  Standard Deviation
 category: S
+description: Standard Deviation - is a measure that is used to quantify the amount of variation or dispersion of a set of data values.
 ---
+In statistics, the standard deviation (SD, also represented by the lower case Greek letter sigma σ or the Latin letter s) is a measure that is used to quantify the amount of [variation](https://www.dsglossary.com/v/variance) or dispersion of a set of data values. A low standard deviation indicates that the data points tend to be close to the [mean](https://www.dsglossary.com/m/mean) (also called the expected value) of the set, while a high standard deviation indicates that the data points are spread out over a wider range of values.
 
-Standard deviation is a measure of the [variance](https://www.dsglossary.com/v/variance) or spread of your data.  Data with a low standard deviation(as in 'deviation from the mean')has, as you would expect, most point lying near the [mean](https://www.dsglossary.com/m/mean), and a high std means a high distribution(more uniform)
+Source: [Wiki](https://en.wikipedia.org/wiki/Standard_deviation)
