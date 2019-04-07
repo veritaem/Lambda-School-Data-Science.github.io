@@ -36,8 +36,6 @@ plugins:
   - jekyll-paginate
 
 
-
-
 #API Calls
 
 # jekyll_get:
