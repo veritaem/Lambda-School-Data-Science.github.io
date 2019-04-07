@@ -1,12 +1,13 @@
 # Setup
 title:        Data Science Glossary
 tagline:      A Glossary of Data Science, Statistics, Machine Learning, and Artificial Intelligence.
+url: "http://www.dsvglossary.com"
 baseurl:      ""
 paginate:     1
 locale:       "en"
 permalink: /:categories/:title
-url: "http://www.dsglossary.com"
-repository: ryanleeallred/ryanleeallred.github.io
+
+repository: veritaem/Lambda-School-Data-Science.github.io
 
 #Organize Category Collections
 collections:
